@@ -1,0 +1,6 @@
+{
+  "name": "Vibe101: The Ultimate Field Guide to Vibecoding",
+  "description": "A complete, beginner-friendly vibecoding learning platform. Discover AI tools, master prompt craft, design distinctive interfaces, and ship real products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
